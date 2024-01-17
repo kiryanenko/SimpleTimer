@@ -15,3 +15,5 @@ SimpleTimer	KEYWORD1
 isReady	KEYWORD2
 setInterval	KEYWORD2
 reset	KEYWORD2
+disable	KEYWORD2
+enable	KEYWORD2
